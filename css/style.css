@@ -90,14 +90,14 @@ header h1 {
     color: #636363;
     font-size: 60pt;
     font-weight: normal;
-    padding: 20px 400px 0px 20px;
+    padding: 20px 200px 0px 20px;
 }
 
 header section h1 {
     color: #636363;
     font-size: 60pt;
     font-weight: normal;
-    padding: 0px 400px 20px 20px;
+    padding: 0px 200px 20px 20px;
 }
 
 .card1, .card2, .card3 {
