@@ -1,0 +1,120 @@
+body {
+    margin: 20px 20px 20px 20px;
+    background-color: #fff;
+    font-family: 'Inter', sans-serif;
+}
+
+main h3 {
+    background-color: #9e9e9e;
+    margin-top: 60px;
+    margin-bottom: 0px;
+    color: #fff;
+    padding: 20px 0px 20px 20px;
+    font-size: 30pt;
+    font-weight: normal; 
+}
+
+header h2 {
+    margin-bottom: 60px;
+    background-color: #9e9e9e;
+    font-size: 30pt;
+    font-weight: bolder;
+    padding: 20px 0px 20px 20px;
+    text-decoration: none;
+    color: #fff;
+}
+
+header h1, p.intro {
+    margin: 0%;
+    background-color: #d1d1d1;
+    justify-content: left;
+}
+
+p.intro {
+    font-size: 24pt;
+    padding-right: 500px;
+    text-align: start;
+    font-weight: normal;
+}
+
+.dolce-sx, .salata-sx, .dolcesalata-sx {
+    padding: 20px 60px 20px 60px;
+    font-size: 18pt;
+    font-display: flex;
+    justify-content: left;
+   
+}
+
+.dolce-dx, .salata-dx, .dolcesalata-dx {
+    padding: 20px 60px 20px 60px;
+    font-size: 18pt;
+    font-display: flex;
+    justify-content: left;
+
+}
+header p {
+    margin: 0%;
+    background-color: #d1d1d1;
+    justify-content: left;
+    padding: 20px 600px 20px 20px;
+    font-size: 24pt;
+}
+
+.container1 {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    align-items: center;
+    background-color: #d1d1d1;
+    margin: 100px 0px 100px 100px; 
+}
+
+.container2 {
+    display: flex;
+    flex-direction: row-reverse;
+    flex-wrap: nowrap;
+    margin: 100px 100px 100px 0px;
+    background-color: #d1d1d1;
+    align-items: center;
+
+}
+img {
+    max-width: 100%;
+}
+
+main div img {
+    background-color: #d1d1d1;
+}
+
+header h1 {
+    color: #636363;
+    font-size: 60pt;
+    font-weight: normal;
+    padding: 20px 400px 0px 20px;
+}
+
+header section h1 {
+    color: #636363;
+    font-size: 60pt;
+    font-weight: normal;
+    padding: 0px 400px 20px 20px;
+}
+
+.card1, .card2, .card3 {
+    background-color: #f3f3f3;
+    padding-bottom: 5px;
+}
+footer {
+    margin: auto;
+    margin-top: 60px;
+    background-color: #d1d1d1;
+    padding: 20px 100px 20px 30px;
+    justify-content: left;
+    font-size: 18pt;
+}
+footer section {
+    margin: auto;
+    background-color: #d1d1d1;
+    padding: 0px 10px 0px 0px;
+    font-size: 18pt;
+}
